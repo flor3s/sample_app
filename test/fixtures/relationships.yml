@@ -1,0 +1,15 @@
+one:
+  follower: testing
+  followed: lana
+
+two:
+  follower: testing
+  followed: delrey
+
+three:
+  follower: lana
+  followed: testing
+
+four:
+  follower: second
+  followed: testing
